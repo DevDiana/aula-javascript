@@ -1,3 +1,4 @@
+/*
 //array é um conjunto de dados que pode ser acessado por um índice
 
 let familia =   [26, 45, 50] //pode colocar strings, numeros etc...
@@ -39,3 +40,4 @@ let resultado = MultiplicarPorDois(5);
 
 console.log(resultado);
 
+*/

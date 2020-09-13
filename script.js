@@ -1,4 +1,4 @@
-
+/*
 let nome = 'Diana';//string literal
 let idade = 25; // number literal
 let estaAprovado = true // boolean
@@ -18,6 +18,7 @@ console.log(pessoa);
 
 //aritméticos(matematicos); atribuição; comparação;lógicos; bitwase
 
+
 let salario = 100;
 
 // +, -, /, **
@@ -34,6 +35,7 @@ let idade = 18;
 
 console.log(idade--);
 console.log(idade);
+*/
 
 
 
